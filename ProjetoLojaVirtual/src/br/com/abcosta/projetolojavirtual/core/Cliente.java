@@ -1,4 +1,4 @@
-package br.com.abcosta.projetolojavirtual.corecore;
+package br.com.abcosta.projetolojavirtual.core;
 
 public class Cliente {
 	private int numero;

@@ -1,4 +1,4 @@
-package br.com.abcosta.projetolojavirtual.corecore;
+package br.com.abcosta.projetolojavirtual.core;
 
 public class Pedido {
 	private String data;

@@ -1,8 +1,8 @@
 package br.com.abcosta.projetolojavirtual.ui;
 
-import br.com.abcosta.projetolojavirtual.corecore.Cliente;
-import br.com.abcosta.projetolojavirtual.corecore.Pedido;
-import br.com.abcosta.projetolojavirtual.corecore.Produto;
+import br.com.abcosta.projetolojavirtual.core.Cliente;
+import br.com.abcosta.projetolojavirtual.core.Pedido;
+import br.com.abcosta.projetolojavirtual.core.Produto;
 
 public class Main {
 	public static void main(String[] args) {
